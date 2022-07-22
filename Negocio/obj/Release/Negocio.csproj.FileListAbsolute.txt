@@ -1,0 +1,36 @@
+C:\Users\rikil\OneDrive\Desktop\ProyectoFinalMenuDia\Negocio\bin\Release\Negocio.dll
+C:\Users\rikil\OneDrive\Desktop\ProyectoFinalMenuDia\Negocio\bin\Release\Negocio.pdb
+C:\Users\rikil\OneDrive\Desktop\ProyectoFinalMenuDia\Negocio\bin\Release\DatosLinq.dll
+C:\Users\rikil\OneDrive\Desktop\ProyectoFinalMenuDia\Negocio\bin\Release\Entidades.dll
+C:\Users\rikil\OneDrive\Desktop\ProyectoFinalMenuDia\Negocio\bin\Release\DatosLinq.pdb
+C:\Users\rikil\OneDrive\Desktop\ProyectoFinalMenuDia\Negocio\bin\Release\DatosLinq.dll.config
+C:\Users\rikil\OneDrive\Desktop\ProyectoFinalMenuDia\Negocio\bin\Release\Entidades.pdb
+C:\Users\rikil\OneDrive\Desktop\ProyectoFinalMenuDia\Negocio\obj\Release\Negocio.csproj.AssemblyReference.cache
+C:\Users\rikil\OneDrive\Desktop\ProyectoFinalMenuDia\Negocio\obj\Release\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\rikil\OneDrive\Desktop\ProyectoFinalMenuDia\Negocio\obj\Release\Negocio.csproj.CopyComplete
+C:\Users\rikil\OneDrive\Desktop\ProyectoFinalMenuDia\Negocio\obj\Release\Negocio.dll
+C:\Users\rikil\OneDrive\Desktop\ProyectoFinalMenuDia\Negocio\obj\Release\Negocio.pdb
+C:\Users\chris\OneDrive\Documentos\Deberes6to\Aplicaciones Distribuidas\ProyectoFinalMenuDia\Negocio\bin\Release\Negocio.dll
+C:\Users\chris\OneDrive\Documentos\Deberes6to\Aplicaciones Distribuidas\ProyectoFinalMenuDia\Negocio\bin\Release\Negocio.pdb
+C:\Users\chris\OneDrive\Documentos\Deberes6to\Aplicaciones Distribuidas\ProyectoFinalMenuDia\Negocio\bin\Release\DatosLinq.dll
+C:\Users\chris\OneDrive\Documentos\Deberes6to\Aplicaciones Distribuidas\ProyectoFinalMenuDia\Negocio\bin\Release\Entidades.dll
+C:\Users\chris\OneDrive\Documentos\Deberes6to\Aplicaciones Distribuidas\ProyectoFinalMenuDia\Negocio\bin\Release\DatosLinq.pdb
+C:\Users\chris\OneDrive\Documentos\Deberes6to\Aplicaciones Distribuidas\ProyectoFinalMenuDia\Negocio\bin\Release\DatosLinq.dll.config
+C:\Users\chris\OneDrive\Documentos\Deberes6to\Aplicaciones Distribuidas\ProyectoFinalMenuDia\Negocio\bin\Release\Entidades.pdb
+C:\Users\chris\OneDrive\Documentos\Deberes6to\Aplicaciones Distribuidas\ProyectoFinalMenuDia\Negocio\obj\Release\Negocio.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Documentos\Deberes6to\Aplicaciones Distribuidas\ProyectoFinalMenuDia\Negocio\obj\Release\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documentos\Deberes6to\Aplicaciones Distribuidas\ProyectoFinalMenuDia\Negocio\obj\Release\Negocio.csproj.CopyComplete
+C:\Users\chris\OneDrive\Documentos\Deberes6to\Aplicaciones Distribuidas\ProyectoFinalMenuDia\Negocio\obj\Release\Negocio.dll
+C:\Users\chris\OneDrive\Documentos\Deberes6to\Aplicaciones Distribuidas\ProyectoFinalMenuDia\Negocio\obj\Release\Negocio.pdb
+C:\Users\rikil\OneDrive\Documents\proyecto distribuidas 1\ProyectoFinalMenuDia\Negocio\bin\Release\Negocio.dll
+C:\Users\rikil\OneDrive\Documents\proyecto distribuidas 1\ProyectoFinalMenuDia\Negocio\bin\Release\Negocio.pdb
+C:\Users\rikil\OneDrive\Documents\proyecto distribuidas 1\ProyectoFinalMenuDia\Negocio\bin\Release\DatosLinq.dll
+C:\Users\rikil\OneDrive\Documents\proyecto distribuidas 1\ProyectoFinalMenuDia\Negocio\bin\Release\Entidades.dll
+C:\Users\rikil\OneDrive\Documents\proyecto distribuidas 1\ProyectoFinalMenuDia\Negocio\bin\Release\DatosLinq.pdb
+C:\Users\rikil\OneDrive\Documents\proyecto distribuidas 1\ProyectoFinalMenuDia\Negocio\bin\Release\DatosLinq.dll.config
+C:\Users\rikil\OneDrive\Documents\proyecto distribuidas 1\ProyectoFinalMenuDia\Negocio\bin\Release\Entidades.pdb
+C:\Users\rikil\OneDrive\Documents\proyecto distribuidas 1\ProyectoFinalMenuDia\Negocio\obj\Release\Negocio.csproj.AssemblyReference.cache
+C:\Users\rikil\OneDrive\Documents\proyecto distribuidas 1\ProyectoFinalMenuDia\Negocio\obj\Release\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\rikil\OneDrive\Documents\proyecto distribuidas 1\ProyectoFinalMenuDia\Negocio\obj\Release\Negocio.csproj.CopyComplete
+C:\Users\rikil\OneDrive\Documents\proyecto distribuidas 1\ProyectoFinalMenuDia\Negocio\obj\Release\Negocio.dll
+C:\Users\rikil\OneDrive\Documents\proyecto distribuidas 1\ProyectoFinalMenuDia\Negocio\obj\Release\Negocio.pdb

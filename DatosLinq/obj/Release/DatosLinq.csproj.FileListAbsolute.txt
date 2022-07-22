@@ -1,0 +1,30 @@
+C:\Users\rikil\OneDrive\Desktop\ProyectoFinalMenuDia\DatosLinq\bin\Release\DatosLinq.dll.config
+C:\Users\rikil\OneDrive\Desktop\ProyectoFinalMenuDia\DatosLinq\bin\Release\DatosLinq.dll
+C:\Users\rikil\OneDrive\Desktop\ProyectoFinalMenuDia\DatosLinq\bin\Release\DatosLinq.pdb
+C:\Users\rikil\OneDrive\Desktop\ProyectoFinalMenuDia\DatosLinq\bin\Release\Entidades.dll
+C:\Users\rikil\OneDrive\Desktop\ProyectoFinalMenuDia\DatosLinq\bin\Release\Entidades.pdb
+C:\Users\rikil\OneDrive\Desktop\ProyectoFinalMenuDia\DatosLinq\obj\Release\DatosLinq.csproj.AssemblyReference.cache
+C:\Users\rikil\OneDrive\Desktop\ProyectoFinalMenuDia\DatosLinq\obj\Release\DatosLinq.csproj.CoreCompileInputs.cache
+C:\Users\rikil\OneDrive\Desktop\ProyectoFinalMenuDia\DatosLinq\obj\Release\DatosLinq.csproj.CopyComplete
+C:\Users\rikil\OneDrive\Desktop\ProyectoFinalMenuDia\DatosLinq\obj\Release\DatosLinq.dll
+C:\Users\rikil\OneDrive\Desktop\ProyectoFinalMenuDia\DatosLinq\obj\Release\DatosLinq.pdb
+C:\Users\chris\OneDrive\Documentos\Deberes6to\Aplicaciones Distribuidas\ProyectoFinalMenuDia\DatosLinq\bin\Release\DatosLinq.dll.config
+C:\Users\chris\OneDrive\Documentos\Deberes6to\Aplicaciones Distribuidas\ProyectoFinalMenuDia\DatosLinq\bin\Release\DatosLinq.dll
+C:\Users\chris\OneDrive\Documentos\Deberes6to\Aplicaciones Distribuidas\ProyectoFinalMenuDia\DatosLinq\bin\Release\DatosLinq.pdb
+C:\Users\chris\OneDrive\Documentos\Deberes6to\Aplicaciones Distribuidas\ProyectoFinalMenuDia\DatosLinq\bin\Release\Entidades.dll
+C:\Users\chris\OneDrive\Documentos\Deberes6to\Aplicaciones Distribuidas\ProyectoFinalMenuDia\DatosLinq\bin\Release\Entidades.pdb
+C:\Users\chris\OneDrive\Documentos\Deberes6to\Aplicaciones Distribuidas\ProyectoFinalMenuDia\DatosLinq\obj\Release\DatosLinq.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Documentos\Deberes6to\Aplicaciones Distribuidas\ProyectoFinalMenuDia\DatosLinq\obj\Release\DatosLinq.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documentos\Deberes6to\Aplicaciones Distribuidas\ProyectoFinalMenuDia\DatosLinq\obj\Release\DatosLinq.csproj.CopyComplete
+C:\Users\chris\OneDrive\Documentos\Deberes6to\Aplicaciones Distribuidas\ProyectoFinalMenuDia\DatosLinq\obj\Release\DatosLinq.dll
+C:\Users\chris\OneDrive\Documentos\Deberes6to\Aplicaciones Distribuidas\ProyectoFinalMenuDia\DatosLinq\obj\Release\DatosLinq.pdb
+C:\Users\rikil\OneDrive\Documents\proyecto distribuidas 1\ProyectoFinalMenuDia\DatosLinq\bin\Release\DatosLinq.dll.config
+C:\Users\rikil\OneDrive\Documents\proyecto distribuidas 1\ProyectoFinalMenuDia\DatosLinq\bin\Release\DatosLinq.dll
+C:\Users\rikil\OneDrive\Documents\proyecto distribuidas 1\ProyectoFinalMenuDia\DatosLinq\bin\Release\DatosLinq.pdb
+C:\Users\rikil\OneDrive\Documents\proyecto distribuidas 1\ProyectoFinalMenuDia\DatosLinq\bin\Release\Entidades.dll
+C:\Users\rikil\OneDrive\Documents\proyecto distribuidas 1\ProyectoFinalMenuDia\DatosLinq\bin\Release\Entidades.pdb
+C:\Users\rikil\OneDrive\Documents\proyecto distribuidas 1\ProyectoFinalMenuDia\DatosLinq\obj\Release\DatosLinq.csproj.AssemblyReference.cache
+C:\Users\rikil\OneDrive\Documents\proyecto distribuidas 1\ProyectoFinalMenuDia\DatosLinq\obj\Release\DatosLinq.csproj.CoreCompileInputs.cache
+C:\Users\rikil\OneDrive\Documents\proyecto distribuidas 1\ProyectoFinalMenuDia\DatosLinq\obj\Release\DatosLinq.csproj.CopyComplete
+C:\Users\rikil\OneDrive\Documents\proyecto distribuidas 1\ProyectoFinalMenuDia\DatosLinq\obj\Release\DatosLinq.dll
+C:\Users\rikil\OneDrive\Documents\proyecto distribuidas 1\ProyectoFinalMenuDia\DatosLinq\obj\Release\DatosLinq.pdb

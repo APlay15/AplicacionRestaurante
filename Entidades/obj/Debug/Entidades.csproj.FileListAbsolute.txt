@@ -1,0 +1,27 @@
+C:\Users\rikil\source\repos\ProyectoFinalMenuDia\Entidades\bin\Debug\Entidades.dll
+C:\Users\rikil\source\repos\ProyectoFinalMenuDia\Entidades\bin\Debug\Entidades.pdb
+C:\Users\rikil\source\repos\ProyectoFinalMenuDia\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\rikil\source\repos\ProyectoFinalMenuDia\Entidades\obj\Debug\Entidades.dll
+C:\Users\rikil\source\repos\ProyectoFinalMenuDia\Entidades\obj\Debug\Entidades.pdb
+C:\APLICACIONES DISTRIBUIDAS\ProyectoFinalMenuDia\Entidades\bin\Debug\Entidades.dll
+C:\APLICACIONES DISTRIBUIDAS\ProyectoFinalMenuDia\Entidades\bin\Debug\Entidades.pdb
+C:\APLICACIONES DISTRIBUIDAS\ProyectoFinalMenuDia\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\APLICACIONES DISTRIBUIDAS\ProyectoFinalMenuDia\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\APLICACIONES DISTRIBUIDAS\ProyectoFinalMenuDia\Entidades\obj\Debug\Entidades.dll
+C:\APLICACIONES DISTRIBUIDAS\ProyectoFinalMenuDia\Entidades\obj\Debug\Entidades.pdb
+C:\Users\rikil\OneDrive\Desktop\ProyectoFinalMenuDia\Entidades\bin\Debug\Entidades.dll
+C:\Users\rikil\OneDrive\Desktop\ProyectoFinalMenuDia\Entidades\bin\Debug\Entidades.pdb
+C:\Users\rikil\OneDrive\Desktop\ProyectoFinalMenuDia\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\rikil\OneDrive\Desktop\ProyectoFinalMenuDia\Entidades\obj\Debug\Entidades.dll
+C:\Users\rikil\OneDrive\Desktop\ProyectoFinalMenuDia\Entidades\obj\Debug\Entidades.pdb
+C:\Users\chris\OneDrive\Documentos\Deberes6to\Aplicaciones Distribuidas\ProyectoFinalMenuDia\Entidades\bin\Debug\Entidades.dll
+C:\Users\chris\OneDrive\Documentos\Deberes6to\Aplicaciones Distribuidas\ProyectoFinalMenuDia\Entidades\bin\Debug\Entidades.pdb
+C:\Users\chris\OneDrive\Documentos\Deberes6to\Aplicaciones Distribuidas\ProyectoFinalMenuDia\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documentos\Deberes6to\Aplicaciones Distribuidas\ProyectoFinalMenuDia\Entidades\obj\Debug\Entidades.dll
+C:\Users\chris\OneDrive\Documentos\Deberes6to\Aplicaciones Distribuidas\ProyectoFinalMenuDia\Entidades\obj\Debug\Entidades.pdb
+C:\Users\lucat\Documents\Universidad\Proyecto Restaurante\ProyectoFinalMenuDia\Entidades\bin\Debug\Entidades.dll
+C:\Users\lucat\Documents\Universidad\Proyecto Restaurante\ProyectoFinalMenuDia\Entidades\bin\Debug\Entidades.pdb
+C:\Users\lucat\Documents\Universidad\Proyecto Restaurante\ProyectoFinalMenuDia\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\lucat\Documents\Universidad\Proyecto Restaurante\ProyectoFinalMenuDia\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lucat\Documents\Universidad\Proyecto Restaurante\ProyectoFinalMenuDia\Entidades\obj\Debug\Entidades.dll
+C:\Users\lucat\Documents\Universidad\Proyecto Restaurante\ProyectoFinalMenuDia\Entidades\obj\Debug\Entidades.pdb

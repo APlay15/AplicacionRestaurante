@@ -1,0 +1,6 @@
+C:\Users\rikil\OneDrive\Desktop\ProyectoFinalMenuDia\Entidades\bin\Release\Entidades.dll
+C:\Users\rikil\OneDrive\Desktop\ProyectoFinalMenuDia\Entidades\bin\Release\Entidades.pdb
+C:\Users\rikil\OneDrive\Desktop\ProyectoFinalMenuDia\Entidades\obj\Release\Entidades.csproj.AssemblyReference.cache
+C:\Users\rikil\OneDrive\Desktop\ProyectoFinalMenuDia\Entidades\obj\Release\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\rikil\OneDrive\Desktop\ProyectoFinalMenuDia\Entidades\obj\Release\Entidades.dll
+C:\Users\rikil\OneDrive\Desktop\ProyectoFinalMenuDia\Entidades\obj\Release\Entidades.pdb

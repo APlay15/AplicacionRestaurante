@@ -1,0 +1,72 @@
+C:\Users\rikil\source\repos\ProyectoFinalMenuDia\Negocio\bin\Debug\Negocio.dll
+C:\Users\rikil\source\repos\ProyectoFinalMenuDia\Negocio\bin\Debug\Negocio.pdb
+C:\Users\rikil\source\repos\ProyectoFinalMenuDia\Negocio\bin\Debug\DatosLinq.dll
+C:\Users\rikil\source\repos\ProyectoFinalMenuDia\Negocio\bin\Debug\Entidades.dll
+C:\Users\rikil\source\repos\ProyectoFinalMenuDia\Negocio\bin\Debug\DatosLinq.pdb
+C:\Users\rikil\source\repos\ProyectoFinalMenuDia\Negocio\bin\Debug\DatosLinq.dll.config
+C:\Users\rikil\source\repos\ProyectoFinalMenuDia\Negocio\bin\Debug\Entidades.pdb
+C:\Users\rikil\source\repos\ProyectoFinalMenuDia\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\rikil\source\repos\ProyectoFinalMenuDia\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\rikil\source\repos\ProyectoFinalMenuDia\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\rikil\source\repos\ProyectoFinalMenuDia\Negocio\obj\Debug\Negocio.dll
+C:\Users\rikil\source\repos\ProyectoFinalMenuDia\Negocio\obj\Debug\Negocio.pdb
+C:\APLICACIONES DISTRIBUIDAS\ProyectoFinalMenuDia\Negocio\bin\Debug\Negocio.dll
+C:\APLICACIONES DISTRIBUIDAS\ProyectoFinalMenuDia\Negocio\bin\Debug\Negocio.pdb
+C:\APLICACIONES DISTRIBUIDAS\ProyectoFinalMenuDia\Negocio\bin\Debug\DatosLinq.dll
+C:\APLICACIONES DISTRIBUIDAS\ProyectoFinalMenuDia\Negocio\bin\Debug\Entidades.dll
+C:\APLICACIONES DISTRIBUIDAS\ProyectoFinalMenuDia\Negocio\bin\Debug\DatosLinq.pdb
+C:\APLICACIONES DISTRIBUIDAS\ProyectoFinalMenuDia\Negocio\bin\Debug\DatosLinq.dll.config
+C:\APLICACIONES DISTRIBUIDAS\ProyectoFinalMenuDia\Negocio\bin\Debug\Entidades.pdb
+C:\APLICACIONES DISTRIBUIDAS\ProyectoFinalMenuDia\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\APLICACIONES DISTRIBUIDAS\ProyectoFinalMenuDia\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\APLICACIONES DISTRIBUIDAS\ProyectoFinalMenuDia\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\APLICACIONES DISTRIBUIDAS\ProyectoFinalMenuDia\Negocio\obj\Debug\Negocio.dll
+C:\APLICACIONES DISTRIBUIDAS\ProyectoFinalMenuDia\Negocio\obj\Debug\Negocio.pdb
+C:\Users\rikil\OneDrive\Desktop\ProyectoFinalMenuDia\Negocio\bin\Debug\Negocio.dll
+C:\Users\rikil\OneDrive\Desktop\ProyectoFinalMenuDia\Negocio\bin\Debug\Negocio.pdb
+C:\Users\rikil\OneDrive\Desktop\ProyectoFinalMenuDia\Negocio\bin\Debug\DatosLinq.dll
+C:\Users\rikil\OneDrive\Desktop\ProyectoFinalMenuDia\Negocio\bin\Debug\Entidades.dll
+C:\Users\rikil\OneDrive\Desktop\ProyectoFinalMenuDia\Negocio\bin\Debug\DatosLinq.pdb
+C:\Users\rikil\OneDrive\Desktop\ProyectoFinalMenuDia\Negocio\bin\Debug\DatosLinq.dll.config
+C:\Users\rikil\OneDrive\Desktop\ProyectoFinalMenuDia\Negocio\bin\Debug\Entidades.pdb
+C:\Users\rikil\OneDrive\Desktop\ProyectoFinalMenuDia\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\rikil\OneDrive\Desktop\ProyectoFinalMenuDia\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\rikil\OneDrive\Desktop\ProyectoFinalMenuDia\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\rikil\OneDrive\Desktop\ProyectoFinalMenuDia\Negocio\obj\Debug\Negocio.dll
+C:\Users\rikil\OneDrive\Desktop\ProyectoFinalMenuDia\Negocio\obj\Debug\Negocio.pdb
+C:\Users\chris\OneDrive\Documentos\Deberes6to\Aplicaciones Distribuidas\ProyectoFinalMenuDia\Negocio\bin\Debug\Negocio.dll
+C:\Users\chris\OneDrive\Documentos\Deberes6to\Aplicaciones Distribuidas\ProyectoFinalMenuDia\Negocio\bin\Debug\Negocio.pdb
+C:\Users\chris\OneDrive\Documentos\Deberes6to\Aplicaciones Distribuidas\ProyectoFinalMenuDia\Negocio\bin\Debug\DatosLinq.dll
+C:\Users\chris\OneDrive\Documentos\Deberes6to\Aplicaciones Distribuidas\ProyectoFinalMenuDia\Negocio\bin\Debug\Entidades.dll
+C:\Users\chris\OneDrive\Documentos\Deberes6to\Aplicaciones Distribuidas\ProyectoFinalMenuDia\Negocio\bin\Debug\DatosLinq.pdb
+C:\Users\chris\OneDrive\Documentos\Deberes6to\Aplicaciones Distribuidas\ProyectoFinalMenuDia\Negocio\bin\Debug\DatosLinq.dll.config
+C:\Users\chris\OneDrive\Documentos\Deberes6to\Aplicaciones Distribuidas\ProyectoFinalMenuDia\Negocio\bin\Debug\Entidades.pdb
+C:\Users\chris\OneDrive\Documentos\Deberes6to\Aplicaciones Distribuidas\ProyectoFinalMenuDia\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Documentos\Deberes6to\Aplicaciones Distribuidas\ProyectoFinalMenuDia\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documentos\Deberes6to\Aplicaciones Distribuidas\ProyectoFinalMenuDia\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\chris\OneDrive\Documentos\Deberes6to\Aplicaciones Distribuidas\ProyectoFinalMenuDia\Negocio\obj\Debug\Negocio.dll
+C:\Users\chris\OneDrive\Documentos\Deberes6to\Aplicaciones Distribuidas\ProyectoFinalMenuDia\Negocio\obj\Debug\Negocio.pdb
+C:\Users\rikil\OneDrive\Documents\proyecto distribuidas 1\ProyectoFinalMenuDia\Negocio\bin\Debug\Negocio.dll
+C:\Users\rikil\OneDrive\Documents\proyecto distribuidas 1\ProyectoFinalMenuDia\Negocio\bin\Debug\Negocio.pdb
+C:\Users\rikil\OneDrive\Documents\proyecto distribuidas 1\ProyectoFinalMenuDia\Negocio\bin\Debug\DatosLinq.dll
+C:\Users\rikil\OneDrive\Documents\proyecto distribuidas 1\ProyectoFinalMenuDia\Negocio\bin\Debug\Entidades.dll
+C:\Users\rikil\OneDrive\Documents\proyecto distribuidas 1\ProyectoFinalMenuDia\Negocio\bin\Debug\DatosLinq.pdb
+C:\Users\rikil\OneDrive\Documents\proyecto distribuidas 1\ProyectoFinalMenuDia\Negocio\bin\Debug\DatosLinq.dll.config
+C:\Users\rikil\OneDrive\Documents\proyecto distribuidas 1\ProyectoFinalMenuDia\Negocio\bin\Debug\Entidades.pdb
+C:\Users\rikil\OneDrive\Documents\proyecto distribuidas 1\ProyectoFinalMenuDia\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\rikil\OneDrive\Documents\proyecto distribuidas 1\ProyectoFinalMenuDia\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\rikil\OneDrive\Documents\proyecto distribuidas 1\ProyectoFinalMenuDia\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\rikil\OneDrive\Documents\proyecto distribuidas 1\ProyectoFinalMenuDia\Negocio\obj\Debug\Negocio.dll
+C:\Users\rikil\OneDrive\Documents\proyecto distribuidas 1\ProyectoFinalMenuDia\Negocio\obj\Debug\Negocio.pdb
+C:\Users\lucat\Documents\Universidad\Proyecto Restaurante\ProyectoFinalMenuDia\Negocio\bin\Debug\Negocio.dll
+C:\Users\lucat\Documents\Universidad\Proyecto Restaurante\ProyectoFinalMenuDia\Negocio\bin\Debug\Negocio.pdb
+C:\Users\lucat\Documents\Universidad\Proyecto Restaurante\ProyectoFinalMenuDia\Negocio\bin\Debug\DatosLinq.dll
+C:\Users\lucat\Documents\Universidad\Proyecto Restaurante\ProyectoFinalMenuDia\Negocio\bin\Debug\Entidades.dll
+C:\Users\lucat\Documents\Universidad\Proyecto Restaurante\ProyectoFinalMenuDia\Negocio\bin\Debug\DatosLinq.pdb
+C:\Users\lucat\Documents\Universidad\Proyecto Restaurante\ProyectoFinalMenuDia\Negocio\bin\Debug\DatosLinq.dll.config
+C:\Users\lucat\Documents\Universidad\Proyecto Restaurante\ProyectoFinalMenuDia\Negocio\bin\Debug\Entidades.pdb
+C:\Users\lucat\Documents\Universidad\Proyecto Restaurante\ProyectoFinalMenuDia\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\lucat\Documents\Universidad\Proyecto Restaurante\ProyectoFinalMenuDia\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\lucat\Documents\Universidad\Proyecto Restaurante\ProyectoFinalMenuDia\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\lucat\Documents\Universidad\Proyecto Restaurante\ProyectoFinalMenuDia\Negocio\obj\Debug\Negocio.dll
+C:\Users\lucat\Documents\Universidad\Proyecto Restaurante\ProyectoFinalMenuDia\Negocio\obj\Debug\Negocio.pdb
